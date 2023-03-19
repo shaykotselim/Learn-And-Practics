@@ -6,6 +6,10 @@
             printf("S     K      S      N      M\n");
             printf(" H   Y        S    I         \n");
             printf("   A            A");
-
+            printf("Create by shaykot");
             getch();
-        }
+
+    
+    }
+
+
